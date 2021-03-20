@@ -1,0 +1,6 @@
+package players;
+
+public enum SuperPower {
+    HAC, SAVE_DAMEGE_AND_REVERT, CRITICAL_DAMAGE, BOOST, STUN, RESURRECTION, DOUBLE_ARROW, BLOCK, CHANGE;
+
+}
